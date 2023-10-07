@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bullseye</string>
+    <string name="instruction_text">PUT THE BULLSEYE AS CLOSE AS YOU CAN TO</string>
+    <string name="target_value">87</string>
+    <string name="min_value">1</string>
+    <string name="max_value">100</string>
+    <string name="btn_hit">HIT ME</string>
+    <string name="resultDialog_btn_text">Awesome</string>
+    <string name="resultDialog_title">Hello There!</string>
+    <string name="resultDialog_message">This slider\'s value is %1$d.\nYou score %2$d points this round.</string>
+    <string name="btn_startOver">Start Over</string>
+    <string name="btn_info">Info</string>
+    <string name="score_label">Score</string>
+    <string name="round_label">Round</string>
+    <string name="alert_title1">Perfect!</string>
+    <string name="alert_title2">Almost Got it!</string>
+    <string name="alert_title3">Not bad.</string>
+    <string name="alert_title4">Are you even trying?</string>
+    <string name="slider_thumb">Slider thumb</string>
+    <string name="background_image">background image</string>
+    <string name="about_page">About Bullseye</string>
+    <string name="arrow_back">Arrow Back</string>
+    <string name="about_title_text">🎉 Bullseye 🎉\'</string>
+    <string name="about_bullseye_text">This is Bullseye, the game where you can win points and earn fame by dragging a slider.\nYour goal is to place the slider as close as possible to the target value. The closer you are, the more points you score.\nEnjoy!</string>
+    <string name="back_button_text">Go Back!</string>
+    <string name="about_page_title">About Bullseye</string>
+
+</resources>
